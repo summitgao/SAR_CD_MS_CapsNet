@@ -10,5 +10,6 @@ Run this code by the following procedures:
 
 
 Reference Code:
-1.https://github.com/XifengGuo/CapsNet-Keras
-2.https://github.com/YushiChen/Conv-Caps-HSI-Classification
+
+1. https://github.com/XifengGuo/CapsNet-Keras
+2. https://github.com/YushiChen/Conv-Caps-HSI-Classification
