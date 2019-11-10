@@ -9,7 +9,7 @@ Run this code by the following procedures:
 2. Opening the terminal and running this script: "python Ms_CapsNet.py". (Ubuntu-16.04.1  Keras-2.1.6)
 
 
-Reference Code:
+In our implementations, we reference the code from Xifeng Guo and Yushi Chen:
 
 1. https://github.com/XifengGuo/CapsNet-Keras
 2. https://github.com/YushiChen/Conv-Caps-HSI-Classification
