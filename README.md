@@ -1,5 +1,6 @@
 # SAR_CD_MS_CapsNet
-Code for the paper "Change Detection in SAR Images Based on Multiscale Capsule Network" accepted for publication in the IEEE Geoscience and Remote Sensing Letters. https://ieeexplore.ieee.org/document/9036876
+
+Code for the paper "[Change Detection in SAR Images Based on Multiscale Capsule Network](https://ieeexplore.ieee.org/document/9036876)" , IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 3, pp. 484-488, March 2021. 
 
 If you have any queries, please do not hesitate to contact me (gaoyunhao128@163.com  gaofeng@ouc.edu.cn).More codes can be obtained from http://feng-gao.cn 
 
